@@ -1,5 +1,5 @@
 <?php
 
-echo "<strong>Teste</strong> tenso";
+echo "<strong>Teste novo</strong> tenso";
 
 ?>
