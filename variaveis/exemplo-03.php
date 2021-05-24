@@ -52,5 +52,8 @@ echo "<br/>";
 $nulo = NULL;
 
 //Null <> Vazio
+//Nulo é ausência de valores e vazio são 0 caracteres.
+
+//-----------------------------
 
 ?>
